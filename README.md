@@ -1,2 +1,2 @@
-# Sipster
+# CaffeineAddicts
 A coffee shop website
