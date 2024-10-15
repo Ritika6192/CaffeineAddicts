@@ -1,2 +1,2 @@
 # CaffeineAddicts
-A coffee shop website
+A coffee shop dummy website
